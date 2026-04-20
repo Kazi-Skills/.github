@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kazi-Skills/.github/main/assets/logo.png" alt="Kazi Skills Logo" width="180" />
+  <img src="https://raw.githubusercontent.com/Kazi-Skills/.github/main/assets/logo.svg" alt="Kazi Skills Logo" width="180" />
 </p>
 
 # Kazi Skills
